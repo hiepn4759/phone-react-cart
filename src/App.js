@@ -19,7 +19,7 @@ class App extends Component {
           <Route path="/details" component={Details}></Route>
           <Route path="/cart" component={Cart}></Route>
           <Route component={Default}></Route>
-          </Switch>
+        </Switch>
       </React.Fragment>
     );
   }
