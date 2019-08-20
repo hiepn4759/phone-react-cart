@@ -4,7 +4,7 @@ export default class Default extends Component {
     render() {
         return (
             <div>
-               default 
+               default no page
             </div>
         );
     }
