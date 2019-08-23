@@ -31,5 +31,5 @@ export default function CartColumns() {
         </div>
       </div>
     </div>
-  )
+  );
 }
